@@ -10,7 +10,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
 
-          <h1>Areca Plates</h1>
+          <h1>Areca Plates1</h1>
           <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
