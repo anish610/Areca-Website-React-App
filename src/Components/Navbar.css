@@ -13,11 +13,11 @@ nav {
     padding: 0;
   }
   
-  nav li {
+  /* nav li {
     margin: 0 10px;
     display: inline-flex;
     
-  }
+  } */
   
   nav a {
     color: #fff;
@@ -31,3 +31,11 @@ nav {
     color: #333;
   }
   
+  .navbar-container {
+    display:flex;
+    flex-direction:horizontal;
+  }
+
+  .list-items{
+    margin-left: 200px;
+  }
